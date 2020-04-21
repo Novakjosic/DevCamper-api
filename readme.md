@@ -11,12 +11,12 @@
 
 # Install Dependencies 
 
-  mpm install
+  npm install
 
 # Run App
 
 # Run in dev mode
-  mpm run dev
+  npm run dev
 
 # Run prod mode
   npm start  
