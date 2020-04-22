@@ -9,10 +9,12 @@
   "config/config.env" and update the
   values/settings to your own
 
-## Install Dependencies 
+# Install Dependencies 
   npm install
   
-## Run App
+# Run App
+
+## Run in dev mode
 
   npm run dev
 
