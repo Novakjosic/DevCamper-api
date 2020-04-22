@@ -1,20 +1,21 @@
-## DevCamper Api
+# DevCamper Api
 
 > Backend Api for DevCamper application,
   which is bootcamp directory website
 
-# Usage
+## Usage
 
   Rename "config/config.env.env" to
   "config/config.env" and update the
   values/settings to your own
 
-# Install Dependencies 
+## Install Dependencies 
   npm install
   
-# Run App
+## Run App
 
   npm run dev
 
-# Run prod mode
+## Run prod mode
+  
   npm start  
