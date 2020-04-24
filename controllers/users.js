@@ -54,7 +54,7 @@ exports.updateUser = asyncHandler(async (req, res, next) => {
 // @access Private/Admin
 
 exports.deleteUser = asyncHandler(async (req, res, next) => {
-    await User.findByIdAndDelete(req.id);
+    await User.findByIdAndDelete(req.params.id);
 
     res.status(201).json({
         success: true,
